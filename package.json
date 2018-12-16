@@ -1,15 +1,15 @@
 {
-  "name": "curriculum",
+  "name": "curriculum-vitae",
   "version": "1.0.0",
-  "description": "Mi Currículum Vitae (C.V.)",
+  "description": "Miguel Angel Otero Prado - Currículum Vitae",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/migueloteroprado/curriculum.git"
+    "url": "git+https://github.com/migueloteroprado/curriculum-vitae.git"
   },
   "author": "Miguel Angel Otero Prado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/migueloteroprado/curriculum-seo/issues"
+    "url": "https://github.com/migueloteroprado/curriculum-vitae/issues"
   },
-  "homepage": "https://github.com/migueloteroprado/curriculum-seo#readme"
+  "homepage": "https://github.com/migueloteroprado/curriculum-vitae#readme"
 }
