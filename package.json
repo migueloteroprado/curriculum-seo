@@ -2,10 +2,6 @@
   "name": "curriculum",
   "version": "1.0.0",
   "description": "Mi Currículum Vitae (C.V.)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/migueloteroprado/curriculum.git"
@@ -13,10 +9,7 @@
   "author": "Miguel Angel Otero Prado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/migueloteroprado/curriculum/issues"
+    "url": "https://github.com/migueloteroprado/curriculum-seo/issues"
   },
-  "homepage": "https://github.com/migueloteroprado/curriculum#readme",
-  "dependencies": {
-    "webpack": "^4.27.1"
-  }
+  "homepage": "https://github.com/migueloteroprado/curriculum-seo#readme"
 }
