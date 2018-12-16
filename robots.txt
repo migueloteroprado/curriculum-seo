@@ -1,5 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://migueloteroprado.github.io/curriculum-seo/
+Sitemap: https://migueloteroprado.github.io/curriculum-vitae/
 
