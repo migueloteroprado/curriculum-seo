@@ -1,0 +1,20 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "url": "https://migueloteroprado.github.io/curriculum-vitae/",
+    "about": {
+      "@context": "http://schema.org/",
+      "@type": "Thing",
+      "description": "Currículum Vitae de Miguel Angel Otero Prado, desarrollador web fullstack. Apasionado de la programación y la tecnología, com más de 15 años de experiencia.",
+      "image": "https://migueloteroprado.github.io/curriculum-vitae/assets/maop-mid.jpg"
+    },
+    "author": {
+      "@context": "http://schema.org/",
+      "@type": "Person",
+      "name": "Miguel Angel Otero Prado",
+      "email": "miguelitri@gmail.com",
+      "jobTitle": "Fullstack developer"
+    }
+  }
+]

@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: https://migueloteroprado.github.io/curriculum-vitae/
+Sitemap: https://migueloteroprado.github.io/curriculum-vitae/sitemap.xml
